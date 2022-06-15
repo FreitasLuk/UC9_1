@@ -1,0 +1,1 @@
+alert("parabéns!!!!!! você ganhou um iphone, mande os dados do seu cartão de crédito frent e verso para receber seu iphone.")
